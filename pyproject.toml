@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "taiscore"
+version = "0.1.0"
+description = "TAIScore reward for actor-conditioned critic training"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "The TAIScore Authors"}
+]
+dependencies = [
+  "requests>=2.28.0"
+]
+
+[tool.setuptools.packages.find]
+include = ["taiscore*"]
