@@ -8,7 +8,7 @@ Official code release for **Co-Evolving Actor-Conditioned Critics for Non-Verifi
 
 **Authors:** [Jinyoung Kim](https://jiny1623.github.io), [Muhammad Khalifa](https://mukhal.github.io), [Lajanugen Logeswaran](https://lajanugen.github.io/), [Jaekyeom Kim](https://jaekyeom.github.io/), [Moontae Lee](https://moontae.github.io/), [Honglak Lee](https://web.eecs.umich.edu/~honglak/), [Lu Wang](https://web.eecs.umich.edu/~wangluxy/)
 
-University of Michigan · NVIDIA · LG AI Research · University of Illinois Chicago
+University of Michigan · LG AI Research · University of Illinois Chicago
 
 ![Method Overview](assets/method.png)
 
