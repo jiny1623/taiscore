@@ -1,10 +1,10 @@
 # TAIScore: Targeted Actionable Improvement Score
 
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-2608.30397-b31b1b.svg)](https://arxiv.org/abs/2608.30397)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://jiny1623.github.io/projects/taiscore/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Official code release for **Co-Evolving Actor-Conditioned Critics for Non-Verifiable Generation**.
+Official code release for [**Co-Evolving Actor-Conditioned Critics for Non-Verifiable Generation**](https://arxiv.org/abs/2608.30397).
 
 **Authors:** [Jinyoung Kim](https://jiny1623.github.io), [Muhammad Khalifa](https://mukhal.github.io), [Lajanugen Logeswaran](https://lajanugen.github.io/), [Jaekyeom Kim](https://jaekyeom.github.io/), [Moontae Lee](https://moontae.github.io/), [Honglak Lee](https://web.eecs.umich.edu/~honglak/), [Lu Wang](https://web.eecs.umich.edu/~wangluxy/)
 
@@ -168,10 +168,14 @@ The judge scores four dimensions and an overall transition score:
 
 ```bibtex
 @article{kim2026coevolving,
-  title   = {Co-Evolving Actor-Conditioned Critics for Non-Verifiable Generation},
-  author  = {Kim, Jinyoung and Khalifa, Muhammad and Logeswaran, Lajanugen and
-             Kim, Jaekyeom and Lee, Moontae and Lee, Honglak and Wang, Lu},
-  journal = {arXiv preprint},
-  year    = {2026}
+  title         = {Co-Evolving Actor-Conditioned Critics for Non-Verifiable Generation},
+  author        = {Kim, Jinyoung and Khalifa, Muhammad and Logeswaran, Lajanugen and
+                   Kim, Jaekyeom and Lee, Moontae and Lee, Honglak and Wang, Lu},
+  journal       = {arXiv preprint arXiv:2608.30397},
+  year          = {2026},
+  eprint        = {2608.30397},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  url           = {https://arxiv.org/abs/2608.30397}
 }
 ```
